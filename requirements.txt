@@ -1,7 +1,7 @@
 Click==7.0
-dlib==19.17.0
+dlib==19.17.0  or above
 face-recognition==1.2.3
 face-recognition-models==0.3.0
 imutils==0.5.2
-numpy==1.16.2
+numpy==1.16.2 or above
 Pillow==6.0.0
