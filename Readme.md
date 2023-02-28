@@ -1,3 +1,8 @@
+This code accompanies the article titled "Framework for Posture and Face Recognition Using Kinect an Ambient-intelligence Method" by Liviu Vladutu, Cosmin Marian, has been published in the WSEAS Transactions on Computers, ISSN / E-ISSN: 1109-2750 / 2224-2872, Volume 22, 2023, Art. #3, p.13-24:
+https://wseas.com/journals/computers/2023/a085105-004(2023).pdf
+ 
+
+DOI: 10.37394/23205.2023.22.3
 # Face detection & recognition with OpenCV, Python and deep learning
 Related links:
 https://towardsdatascience.com/using-linkedin-profile-pictures-for-facial-recognition-8be709e8fac
