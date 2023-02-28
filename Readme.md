@@ -1,4 +1,4 @@
-# PyImageSearch Face recognition with OpenCV, Python and deep learning
+# Face detection & recognition with OpenCV, Python and deep learning
 Related links:
 https://towardsdatascience.com/using-linkedin-profile-pictures-for-facial-recognition-8be709e8fac
 
