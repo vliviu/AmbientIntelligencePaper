@@ -1,10 +1,16 @@
 # PyImageSearch Face recognition with OpenCV, Python and deep learning
+Related links:
+https://towardsdatascience.com/using-linkedin-profile-pictures-for-facial-recognition-8be709e8fac
 
 [https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/](https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/)
 
+Significance of the facial landmarks is given here:
+1) https://pyimagesearch.com/2017/04/10/detect-eyes-nose-lips-jaw-dlib-opencv-python/
+2) in accordance with: https://ibug.doc.ic.ac.uk/resources/facial-point-annotations/
+
 ## Setup
 
-- Python 3.6.6
+- Python 3.6.6+ 
 
 ### OpenCV 4.x
 
